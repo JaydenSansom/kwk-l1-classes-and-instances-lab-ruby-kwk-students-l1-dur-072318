@@ -1,9 +1,11 @@
 # dog.rb
 class Dog
   
-  def initilize(name)
-    @name = name
+  def initialize()
+    @name
   end
+  
+  
   
   def name 
     @name
